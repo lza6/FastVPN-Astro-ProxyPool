@@ -1,0 +1,7 @@
+demo.log
+__pycache__/
+probe_results.json
+*.pyc
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/

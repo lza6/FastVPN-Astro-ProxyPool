@@ -1,0 +1,112 @@
+[
+ {
+  "type": "ss",
+  "tag": "Amsterdam II",
+  "server": "108.181.122.170",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "CJmTCCx7Ltud"
+ },
+ {
+  "type": "ss",
+  "tag": "Ashburn II",
+  "server": "108.181.133.138",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "H12pAAJYL"
+ },
+ {
+  "type": "ss",
+  "tag": "Barcelona II",
+  "server": "108.181.121.178",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "WSyL4XTwNsdv"
+ },
+ {
+  "type": "ss",
+  "tag": "Chicago II",
+  "server": "67.220.73.247",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "DGjtV63aPW3E"
+ },
+ {
+  "type": "ss",
+  "tag": "Dallas II",
+  "server": "108.181.88.2",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "6yzcGxLalx0T"
+ },
+ {
+  "type": "ss",
+  "tag": "Frankfurt II",
+  "server": "136.176.66.193",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "SWBJ2eOCrLJk"
+ },
+ {
+  "type": "ss",
+  "tag": "Los Angeles II",
+  "server": "108.181.9.202",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "G5p6ww4o67HB"
+ },
+ {
+  "type": "ss",
+  "tag": "Montreal II",
+  "server": "134.195.198.163",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "PmCqK98WqhSC"
+ },
+ {
+  "type": "ss",
+  "tag": "New York II",
+  "server": "38.99.82.34",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "TyWIy6paiFUX"
+ },
+ {
+  "type": "ss",
+  "tag": "Zurich II",
+  "server": "208.69.78.133",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "ncIkubmoDGsl"
+ },
+ {
+  "type": "ss",
+  "tag": "Madrid-v2p",
+  "server": "spain.surgevpn.app",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "53879d9f6e24590a5a01ab7d628010071ad765cfaadf6346",
+  "plugin": "v2ray-plugin",
+  "plugin_opts": "mode=websocket;tls;host=spain.surgevpn.app;path=/cc5cbb935a2d3bc3676dbdcb"
+ },
+ {
+  "type": "ss",
+  "tag": "Manchester-v2p",
+  "server": "uk.hwssolutions.com",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "a9adf5e90130629011a12b56f84a9fea8fdd3b2d3d958c5a",
+  "plugin": "v2ray-plugin",
+  "plugin_opts": "mode=websocket;tls;host=uk.hwssolutions.com;path=/cf83942288133f6640deff3d"
+ },
+ {
+  "type": "ss",
+  "tag": "Rotterdam-v2p",
+  "server": "new.hwssolutions.com",
+  "server_port": 443,
+  "method": "chacha20-ietf-poly1305",
+  "password": "52f46c198583258073a7a84355cb12715ec04752ebfe1b7b",
+  "plugin": "v2ray-plugin",
+  "plugin_opts": "mode=websocket;tls;host=new.hwssolutions.com;path=/15a99fbad356667791a9d563"
+ }
+]
